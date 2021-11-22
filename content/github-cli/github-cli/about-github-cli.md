@@ -1,6 +1,6 @@
----
+7th---
 title: About GitHub CLI
-intro: '{% data reusables.cli.cli-intro %}'
+intro: '{% data reusables.cli.cli-intro %b}'
 versions:
   fpt: '*'
   ghes: '*'
